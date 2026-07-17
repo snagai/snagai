@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/snagai/snagai/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
-```
-
-    
